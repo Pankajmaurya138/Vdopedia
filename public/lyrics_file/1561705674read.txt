@@ -1,0 +1,23 @@
+[
+  {"start_time":"00:00:10","end_time":"00:00:06","text":"Jo hasne se has deti hai"},
+  {"start_time":"00:00:07","end_time":"00:00:12","text":"jo rone se ro doti hai"},
+  {"start_time":"00:00:13","end_time":"00:00:18","text":"Koi Nahi wo koi nahi"},
+  {"start_time":"00:00:19","end_time":"00:00:26","text":"wo to bas ek maa hoti hai"},
+  {"start_time":"00:00:53","end_time":"00:01:08","text":"Jo hasne se has deti hai jo rone se ro doti hai Koi Nahi wo koi nahi wo to bas ek maa hoti hai"},
+  {"start_time":"00:01:09","end_time":"00:01:19","text":"Maa "},
+  {"start_time":"00:01:52","end_time":"00:02:02","text":"Maa se badhkar koi na dualat isase bada na koi sahara na koi sahara na koi sahara"},
+  {"start_time":"00:02:03","end_time":"00:02:13","text":"Jiske pass nahi ye daulat uska jeevan hai banjara hai banjara "},
+  {"start_time":"00:02:14","end_time":"00:01:23","text":"Maa ki mamta sach puchho to andhiyaro mein ek joti hai"},
+  {"start_time":"00:02:24","end_time":"00:02:38","text":"Jo hasne se has deti hai jo rone se ro doti hai Koi Nahi wo koi nahi wo to bas ek maa hoti hai"},
+  {"start_time":"00:02:39","end_time":"00:02:51","text":"Maa "},
+  {"start_time":"00:03:21","end_time":"00:03:32","text":"Bhagwan se bhi wo lad jaai hai saare dukh dard sah jaati hai sah jaati hai sah jaati hai"},
+  {"start_time":"00:03:33","end_time":"00:03:42","text":"Jiske aankho ka main tara duniya bhar ka raaj dulara raj dulara raj dulara"},
+  {"start_time":"00:03:43","end_time":"00:03:52","text":"Maa ka aanchal sach puchho to sab dukho ki ek dawa hai"},
+  {"start_time":"00:03:54","end_time":"00:04:08","text":"Jo hasne se has deti hai jo rone se ro doti hai Koi Nahi wo koi nahi wo to bas ek maa hoti hai"},
+  {"start_time":"00:04:10","end_time":"00:04:21","text":"Maa "},
+  {"start_time":"00:04:48","end_time":"00:04:58","text":"Meri maa hai ek angel jo hamesha khush rahti hai khush rahti hai khush rahti hai"},
+  {"start_time":"00:04:59","end_time":"00:05:09","text":"Kabhi naa aane denge aansu hamne bhi ab soch liya hai soch liya hai soch liya hai"},
+  {"start_time":"00:05:10","end_time":"00:05:19","text":"Maa ka darza sach pucho to bhagwan se bhi ucha hai"},
+  {"start_time":"00:05:20","end_time":"00:05:35","text":"Jo hasne se has deti hai jo rone se ro doti hai Koi Nahi wo koi nahi wo to bas ek maa hoti hai"},
+  {"start_time":"00:05:36","end_time":"00:05:48","text":"Maa "}
+]
